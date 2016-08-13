@@ -286,6 +286,7 @@
 				A854152B1D5EA3AB008B67A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
